@@ -4,6 +4,6 @@ module.exports = {
   OWNER_NAME: 'YANZ X6531B',
   OWNER_USERNAME: 'yann_store_rd',
   OWNER_ID: '6677107475',
-  MONGO_DB: 'MONGO_DB_URL',
+  MONGO_DB: '2ymGFkv3ghsEslAD',
   DISCLAIMER_LINK: 'https://t.me/yanzstoressh'
 };
